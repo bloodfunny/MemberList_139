@@ -19,7 +19,9 @@ public:
     }
 };
 
-
+class pelajar : public orang {
+public:
+};
 
 int main()
 {
