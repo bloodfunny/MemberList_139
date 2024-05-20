@@ -18,7 +18,10 @@ public:
     void cetakDokter();
 };
 
+class dokter {
+public:
 
+};
 
 int main()
 {
