@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "newmind", "newmind\newmind.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agreggasi", "Agreggasi\Agreggasi.vcxproj", "{870502A1-8904-4261-A92F-4CD97AF13840}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "association", "association\association.vcxproj", "{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{870502A1-8904-4261-A92F-4CD97AF13840}.Release|x64.Build.0 = Release|x64
 		{870502A1-8904-4261-A92F-4CD97AF13840}.Release|x86.ActiveCfg = Release|Win32
 		{870502A1-8904-4261-A92F-4CD97AF13840}.Release|x86.Build.0 = Release|Win32
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Debug|x64.ActiveCfg = Debug|x64
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Debug|x64.Build.0 = Debug|x64
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Debug|x86.ActiveCfg = Debug|Win32
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Debug|x86.Build.0 = Debug|Win32
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Release|x64.ActiveCfg = Release|x64
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Release|x64.Build.0 = Release|x64
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Release|x86.ActiveCfg = Release|Win32
+		{537B8CBA-0C7B-46E2-8B22-D4F69CF4FB78}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
